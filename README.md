@@ -23,10 +23,10 @@ This project is dedicated to developing a robust system for predicting the proba
 
 
 
-Programming Language: Python
+Programming Language Used: Python
 
 
-Libraries and Frameworks: NumPy,pandas, Matplotlib,Seaborn,scikit-learn
+Libraries and Frameworks Used: NumPy,pandas, Matplotlib,Seaborn,scikit-learn
 
 
-Development Environment:Jupyter Notebooks
+Development Environment Used:Jupyter Notebooks
