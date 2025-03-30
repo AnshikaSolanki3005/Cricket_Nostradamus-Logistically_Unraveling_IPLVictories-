@@ -1,19 +1,19 @@
 ***📌 PROJECT TITLE : 
 Cricket Nostradamus: Logistically Unraveling IPL Victories***
 
-🏆 PROJECT OVERVIEW :
+**🏆 PROJECT OVERVIEW :**
 
 This project leverages logistic regression and predictive modeling to analyze IPL match outcomes using historical data. By examining match deliveries and key features, it provides insights into team performances and helps predict future results.
 
 
-📂 DATASET DETAILS :
+**📂 DATASET DETAILS :**
 
 deliveries.csv – Ball-by-ball data for IPL matches.
 
 ipl_match.csv – Match-level data including teams, venues, and results.
 
 
-🔍 OBJECTIVE :
+**🔍 OBJECTIVE :**
 
 
 *  Understand key performance indicators influencing match outcomes.
@@ -23,7 +23,7 @@ ipl_match.csv – Match-level data including teams, venues, and results.
 *  Analyze factors such as toss decisions, venue influence, and player contributions.
 
 
-🏗 METHODOLOGY :
+**🏗 METHODOLOGY :**
 
 
 1. Data Preprocessing – Cleaning and feature engineering.
@@ -37,7 +37,7 @@ ipl_match.csv – Match-level data including teams, venues, and results.
 5. Prediction & Insights – Using the model to predict match winners.
 
 
-FUTURE IMPROVEMENTS :
+**FUTURE IMPROVEMENTS :**
 
 1. Implement advanced machine learning models like Random Forest or XGBoost for better performance.
 
@@ -48,14 +48,14 @@ FUTURE IMPROVEMENTS :
 4. Develop a web or mobile app for user-friendly predictions.
 
 
-REQUIREMENTS :
+**REQUIREMENTS :**
 
 To run this project, you need the following dependencies:
 
 pip install numpy pandas scikit-learn matplotlib seaborn
 
 
-⚙ HOW TO USE :
+**⚙ HOW TO USE :**
 
 
 1. ***Clone the repository:***
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 python main_project_code.py
 
 
-CONCLUSION :
+**CONCLUSION :**
 
 This project successfully demonstrates how machine learning can be used to predict IPL match outcomes based on key game metrics. With future enhancements, the model can become a valuable tool for analysts and enthusiasts to better understand match probabilities in real time.
 
