@@ -55,7 +55,7 @@ To run this project, you need the following dependencies:
 pip install numpy pandas scikit-learn matplotlib seaborn
 
 
-⚙ HOW TO US :
+⚙ HOW TO USE :
 
 
 1. ***Clone the repository:***
@@ -71,6 +71,7 @@ pip install -r requirements.txt
 3. ***Run the analysis:***
 
 python main_project_code.py
+
 
 CONCLUSION :
 
