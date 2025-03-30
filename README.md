@@ -77,3 +77,7 @@ python main_project_code.py
 
 This project successfully demonstrates how machine learning can be used to predict IPL match outcomes based on key game metrics. With future enhancements, the model can become a valuable tool for analysts and enthusiasts to better understand match probabilities in real time.
 
+
+**Contributor**
+
+Anshika Solanki
