@@ -80,4 +80,4 @@ This project successfully demonstrates how machine learning can be used to predi
 
 **Contributor**
 
-Anshika Solanki
+***Anshika Solanki***
