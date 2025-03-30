@@ -14,6 +14,8 @@ ipl_match.csv – Match-level data including teams, venues, and results.
 
 
 🔍 OBJECTIVE :
+
+
 Understand key performance indicators influencing match outcomes.
 
 Build a predictive model using machine learning to forecast IPL victories.
@@ -22,6 +24,8 @@ Analyze factors such as toss decisions, venue influence, and player contribution
 
 
 🏗 METHODOLOGY :
+
+
 Data Preprocessing – Cleaning and feature engineering.
 
 Exploratory Data Analysis (EDA) – Visualizing trends in IPL matches.
@@ -52,6 +56,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 
 ⚙ HOW TO US :
+
+
 ***Clone the repository:***
    
 git clone https://github.com/yourusername/Cricket_Nostradamus.git
