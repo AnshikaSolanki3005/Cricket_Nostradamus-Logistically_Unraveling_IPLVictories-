@@ -16,36 +16,36 @@ ipl_match.csv – Match-level data including teams, venues, and results.
 🔍 OBJECTIVE :
 
 
-Understand key performance indicators influencing match outcomes.
+*  Understand key performance indicators influencing match outcomes.
 
-Build a predictive model using machine learning to forecast IPL victories.
+*  Build a predictive model using machine learning to forecast IPL victories.
 
-Analyze factors such as toss decisions, venue influence, and player contributions.
+*  Analyze factors such as toss decisions, venue influence, and player contributions.
 
 
 🏗 METHODOLOGY :
 
 
-Data Preprocessing – Cleaning and feature engineering.
+1. Data Preprocessing – Cleaning and feature engineering.
 
-Exploratory Data Analysis (EDA) – Visualizing trends in IPL matches.
+2. Exploratory Data Analysis (EDA) – Visualizing trends in IPL matches.
 
-Feature Selection – Identifying the most impactful variables.
+3. Feature Selection – Identifying the most impactful variables.
 
-Model Development – Applying logistic regression and evaluating performance.
+4. Model Development – Applying logistic regression and evaluating performance.
 
-Prediction & Insights – Using the model to predict match winners.
+5. Prediction & Insights – Using the model to predict match winners.
 
 
 FUTURE IMPROVEMENTS :
 
-Implement advanced machine learning models like Random Forest or XGBoost for better performance.
+1. Implement advanced machine learning models like Random Forest or XGBoost for better performance.
 
-Incorporate live match data for real-time predictions.
+2. incorporate live match data for real-time predictions.
 
-Include additional features like weather conditions, player statistics, and team strategies.
+3. Include additional features like weather conditions, player statistics, and team strategies.
 
-Develop a web or mobile app for user-friendly predictions.
+4. Develop a web or mobile app for user-friendly predictions.
 
 
 REQUIREMENTS :
@@ -58,17 +58,17 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ⚙ HOW TO US :
 
 
-***Clone the repository:***
+1. ***Clone the repository:***
    
 git clone https://github.com/yourusername/Cricket_Nostradamus.git
 
 cd Cricket_Nostradamus
 
-***Install dependencies:***
+2. ***Install dependencies:***
 
 pip install -r requirements.txt
 
-***Run the analysis:***
+3. ***Run the analysis:***
 
 python main_project_code.py
 
